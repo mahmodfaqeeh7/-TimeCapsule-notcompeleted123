@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794709461666",
+    "project_id": "capsulelogindata",
+    "storage_bucket": "capsulelogindata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794709461666:android:cd8a7e7772a532b9ec25fb",
+        "android_client_info": {
+          "package_name": "com.example.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794709461666-buso8f2r8uoo93s7oci8ih7f1vmh85ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwSYfCUh8uPlxumtF3aj61myNDHjD58nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794709461666-buso8f2r8uoo93s7oci8ih7f1vmh85ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
